@@ -14,8 +14,7 @@ title: imincheol technology blog
 subtitle:
 description:
 author: imincheol
-language: ko
-timezone: Asia/Seoul
+language: en
 
 url: https://imincheol.github.io/
 
