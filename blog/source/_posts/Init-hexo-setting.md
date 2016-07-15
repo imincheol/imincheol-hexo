@@ -15,7 +15,7 @@ subtitle:
 description:
 author: imincheol
 language: ko
-timezone: Asis/Seoul
+timezone: Asia/Seoul
 
 url: https://imincheol.github.io/
 
@@ -28,7 +28,7 @@ deploy:
 그러면 정상적으로 자신의 github로 커밋이 된다
 
 ``` bash
-hexo g -d
+$ hexo g -d
 ```
 
 만약 아래와 같은 메시지가 나타나면
@@ -38,12 +38,12 @@ ERROR Deployer not found: git
 
 다음의 커맨드를 입력한다
 ``` bash
-npm install hexo-deployer-git --save
+$ npm install hexo-deployer-git --save
 ```
 
 그리고 다시 배포한다
 
 ``` bash
-hexo g -d
+$ hexo g -d
 ```
 
