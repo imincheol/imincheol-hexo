@@ -8,7 +8,7 @@ First of all
 
 You already install hexo then modify _config.yml like this
 
-{% codeblock %}
+{% codeblock lang:json %}
 
 title: imincheol technology blog
 subtitle:
